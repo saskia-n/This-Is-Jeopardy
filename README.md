@@ -2,7 +2,7 @@
 
 This is a project provided by [Codecademy](http://codecademy.com) in the Data Science track. 
 
-In the Jupyter Notebook file, you will find the following:
+In the Jupyter Notebook file (`This Is Jeopardy!.ipynb`), you will find the following:
 
 - Basic exercises for the Pandas library in Python, i.e., mainly data frame manipulation and simple data exploration.
 - Custom functions for finding trends in a data set and visualizing them.
